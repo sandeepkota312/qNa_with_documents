@@ -1,0 +1,3 @@
+langchain[all]
+openai
+python-docx
